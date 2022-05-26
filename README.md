@@ -24,5 +24,5 @@ NodeJs,React,MongoDb,Postgres
 
 ## Tech Stack
 
-**Server:** Node, Express
+**Server:** Node
 
